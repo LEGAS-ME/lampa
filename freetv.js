@@ -41,31 +41,31 @@
 		var cors = '';
 		var catalogs = [{
         title: 'Полный список',
-        url: 'http://lampatv.site/json/all.json'
+        url: 'http://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Общие и Новостные',
-        url: 'http://lampatv.site/json/news.json'
+        url: 'http://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Развивающие',
-        url: 'http://lampatv.site/json/razviv.json'
+        url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Кино',
-        url: 'http://lampatv.site/json/cinema.json'
+        url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Разное',
-        url: 'http://lampatv.site/json/raznoe.json'
+        url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Детские',
-        url: 'http://lampatv.site/json/kids.json'
+        url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Спорт',
-        url: 'http://lampatv.site/json/sport.json'
+        url: 'hhttps://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Музыка',
-        url: 'http://lampatv.site/json/music.json'
+        url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
       },  {
         title: 'Регионы',
-        url: 'http://lampatv.site/json/region.json'
+        url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
       }];
 		this.create = function() {
 			var _this = this;
@@ -229,7 +229,7 @@
 				var menu_items = $('<li class="menu__item selector" data-action="freetv_r"><div class="menu__ico">' + ico + '</div><div class="menu__text">FreeТВ</div></li>');
 				menu_items.on('hover:enter', function() {
 					Lampa.Activity.push({
-						url: 'http://lampatv.site/json/all.json',
+						url: 'http://github.com/LEGAS-ME/lampa/blob/main/all.json',
 						title: 'Основные',
 						component: 'freetv_n',
 						page: 1
@@ -240,6 +240,7 @@
 		});
 	}
 //METRIKA	
+/*	
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
    m[i].l=1*new Date();
    for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
@@ -254,6 +255,8 @@
 
 var METRIKAF = '<noscript><div><img src="https://mc.yandex.ru/watch/92225618" style="position:absolute; left:-9999px;" alt="" /></div></noscript>';
 $('body').append(METRIKAF);
+*/
+
 /*
 	function updateLogo() {
 			$("#MyLogoDiv").remove()
