@@ -45,6 +45,7 @@
       },  {
         title: 'Общие и Новостные',
         url: 'http://raw.githubusercontent.com/LEGAS-ME/lampa/main/all.json'
+/*	      
       },  {
         title: 'Развивающие',
         url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
@@ -66,6 +67,7 @@
       },  {
         title: 'Регионы',
         url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
+*/	
       }];
 		this.create = function() {
 			var _this = this;
