@@ -41,10 +41,10 @@
 		var cors = '';
 		var catalogs = [{
         title: 'Полный список',
-        url: 'http://github.com/LEGAS-ME/lampa/blob/main/all.json'
+        url: 'http://raw.githubusercontent.com/LEGAS-ME/lampa/main/all.json'
       },  {
         title: 'Общие и Новостные',
-        url: 'http://github.com/LEGAS-ME/lampa/blob/main/all.json'
+        url: 'http://raw.githubusercontent.com/LEGAS-ME/lampa/main/all.json'
       },  {
         title: 'Развивающие',
         url: 'https://github.com/LEGAS-ME/lampa/blob/main/all.json'
@@ -229,7 +229,7 @@
 				var menu_items = $('<li class="menu__item selector" data-action="freetv_r"><div class="menu__ico">' + ico + '</div><div class="menu__text">FreeТВ</div></li>');
 				menu_items.on('hover:enter', function() {
 					Lampa.Activity.push({
-						url: 'http://github.com/LEGAS-ME/lampa/blob/main/all.json',
+						url: 'http://raw.githubusercontent.com/LEGAS-ME/lampa/main/all.json',
 						title: 'Основные',
 						component: 'freetv_n',
 						page: 1
