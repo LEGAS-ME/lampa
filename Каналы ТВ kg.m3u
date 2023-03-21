@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:-1 ,Плейлист от MAV.
+http://195.2.74.99/channel/n6c785a9a/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Первый канал HD
+http://77.235.14.92:8006/play/perviy_kanal_hd
+#EXTINF:-1 ,Первый Канал +4 HD 
+http://77.235.14.92:8005/play/1kanal_hd_ar/index.m3u8
+#EXTINF:-1 ,Первый канал СНГ ~
+http://77.235.14.92:8000/play/perviy_kanal_sng/index.m3u8
+#EXTINF:-1 ,Известия HD ТЕСТ
+http://77.235.14.92:8005/play/izvestiya_hd/index.m3u8
+#EXTINF:-1 ,360° Подмосковье
+http://77.235.14.92:8006/play/360_podmoskovie
+#EXTINF:-1 ,ТВ Центр
+http://77.235.14.92:8006/play/tvcentr
+#EXTINF:-1 ,Спас ТВ
+http://77.235.14.92:8000/play/spas_tv/index.m3u8
+#EXTINF:-1,Россия К (+4)
+http://77.235.14.92:8005/play/rossia_k_crdru/index.m3u8
+#EXTINF:-1 ,РБК
+http://77.235.14.92:8006/play/rbk
+#EXTINF:-1 ,Матч!
+http://77.235.14.92:8002/play/match_tv/index.m3u8
+#EXTINF:-1 ,RT doc
+http://77.235.14.92:8000/play/rt_doc/index.m3u8
+#EXTINF:-1 ,Настоящее время
+http://77.235.14.92:8000/play/nastoyasshee_vremya/index.m3u8
+#EXTINF:-1 ,Евроновости
+http://77.235.14.92:8000/play/euronews/index.m3u8
+#EXTINF:-1 ,CGTN Русский ~
+http://77.235.14.92:8002/play/cgtn_ru/index.m3u8
+#EXTINF:-1 ,НТВ Сериал (новый)
+http://77.235.14.92:8006/play/ntv_serial_smart
+#EXTINF:-1 ,НТВ Стиль
+http://77.235.14.92:8006/play/ntv_stil
+#EXTINF:-1 ,Усадьба
+http://77.235.14.92:8000/play/usadba/index.m3u8
+#EXTINF:-1 ,SkazkiZayki
+http://77.235.14.92:8005/play/skazkizayki_hdmed/index.m3u8
+#EXTINF:-1 ,SovetskoeKino
+http://77.235.14.92:8005/play/sovetkino_hdmed/index.m3u8
+#EXTINF:-1 ,SovetskoeMultfilm
+http://77.235.14.92:8005/play/sovetmultfilm_hdmed/index.m3u8
+#EXTINF:-1 ,БелРос ~
+http://77.235.14.92:8002/play/belros/index.m3u8
+#EXTINF:-1 ,Бобер
+http://77.235.14.92:8000/play/a01a/index.m3u8
+#EXTINF:-1 ,Боец
+http://77.235.14.92:8000/play/boec/index.m3u8
+#EXTINF:-1 ,Бокс тв
+http://77.235.14.92:8006/play/boks_tv
+#EXTINF:-1 ,Глазами туриста
+http://77.235.14.92:8000/play/glazami_turista/index.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://77.235.14.92:8006/play/zagorodnaya_jizn
+#EXTINF:-1 ,Звезда ~ (Из инета)
+http://77.235.14.92:8006/play/zvezda
+#EXTINF:-1 ,Зоопарк
+http://77.235.14.92:8006/play/zoopark
+#EXTINF:-1 ,Русский детектив
+http://77.235.14.92:8006/play/rus_detective
+#EXTINF:-1 ,Сарафан
+http://77.235.14.92:8006/play/sarafan
+#EXTINF:-1 ,Совершенно секретно
+http://77.235.14.92:8000/play/secret_test/index.m3u8
+#EXTINF:-1 ,Суббота
+http://77.235.14.92:8006/play/subbota
+#EXTINF:-1,Че!
+http://77.235.14.92:8002/play/che/index.m3u8
+#EXTINF:-1,ТВ 3
+http://77.235.14.92:8002/play/tv3/index.m3u8
+#EXTINF:-1 ,Пирамида
+http://77.235.14.92:8006/play/piramida
+#EXTINF:-1 ,Поехали ~
+http://77.235.14.92:8006/play/a00y
+#EXTINF:-1 ,Пятница
+http://77.235.14.92:8006/play/pyatnitsa
+#EXTINF:-1,RU.tv
+http://77.235.14.92:8002/play/ru_tv/index.m3u8
+#EXTINF:-1,Солнце (Disney)
+http://77.235.14.92:8002/play/disney/index.m3u8
+#EXTINF:-1,СуперТВ
+http://77.235.14.92:8005/play/super_tv2/index.m3u8
+#EXTINF:-1 ,Регион ТВ ~
+http://77.235.14.92:8006/play/region
+#EXTINF:-1 ,Родное кино
+http://77.235.14.92:8006/play/rodnoe_kino
+#EXTINF:-1 ,Домашний KG
+http://77.235.14.92:8005/play/Domashniy_kg/index.m3u8
+#EXTINF:-1 ,Азия ТВ
+http://77.235.14.92:8005/play/asia_tv/index.m3u8
+#EXTINF:-1 ,.red
+http://77.235.14.92:8000/play/sony_ent_hd/index.m3u8
+#EXTINF:-1 ,7 Канал (новый)
+http://77.235.14.92:8000/play/7_kanal/index.m3u8
+#EXTINF:-1 ,BBC world news ~
+http://77.235.14.92:8000/play/bbc_world_news/index.m3u8
+#EXTINF:-1 ,Bolt
+http://77.235.14.92:8000/play/bolt/index.m3u8
+#EXTINF:-1 ,Brazzers TV ~
+http://77.235.14.92:8000/play/brazzers_tv/index.m3u8
+#EXTINF:-1 ,Bridge Deluxe
+http://77.235.14.92:8006/play/bridge_deluxe
+#EXTINF:-1 ,CCTV 14
+http://77.235.14.92:8000/play/cctv_14/index.m3u8
+#EXTINF:-1 ,CGTN Documentary
+http://77.235.14.92:8000/play/cgtn_doc/index.m3u8
+#EXTINF:-1 ,CNN International (eng)
+http://77.235.14.92:8000/play/cnn_int/index.m3u8
+#EXTINF:-1 ,Cinema
+http://77.235.14.92:8006/play/cinema
+#EXTINF:-1 ,Erox
+http://77.235.14.92:8000/play/erox/index.m3u8
+#EXTINF:-1 ,Europa Plus
+http://77.235.14.92:8000/play/europa_plus/index.m3u8
+#EXTINF:-1 ,Eurosport 2 HD
+http://77.235.14.92:8000/play/eurosport2/index.m3u8
+#EXTINF:-1 ,FightBOX
+http://77.235.14.92:8006/play/fight_box
+#EXTINF:-1 ,Gulli Girl
+http://77.235.14.92:8006/play/gulli_girl
+#EXTINF:-1 ,HD Life
+http://77.235.14.92:8006/play/hd_life
+#EXTINF:-1 ,Kinoteatr (uzb)
+http://77.235.14.92:8000/play/kinoteatr_uz/index.m3u8
+#EXTINF:-1 ,NUR TV
+http://77.235.14.92:8000/play/nur_tv/index.m3u8
+#EXTINF:-1 ,National geographic ~ HD (Ararelos)
+http://77.235.14.92:8000/play/national_geographic/index.m3u8
+#EXTINF:-1 ,Navo (uzb)
+http://77.235.14.92:8006/play/navo_uz
+#EXTINF:-1 ,Qazaqstan Int
+http://77.235.14.92:8006/play/ktk_kazahstan
+#EXTINF:-1 ,Russian Extreme HD (ilook)
+http://77.235.14.92:8006/play/rus_extreme
+#EXTINF:-1 ,Russian Travel Guide
+http://77.235.14.92:8000/play/rtg_hd/index.m3u8
+#EXTINF:-1 ,START Air
+http://77.235.14.92:8006/play/start_air
+#EXTINF:-1 ,START World
+http://77.235.14.92:8006/play/start_world
+#EXTINF:-1 ,Setanta Sports 2
+http://77.235.14.92:8000/play/setanta_sport2/index.m3u8
+#EXTINF:-1 ,Star Cinema
+http://77.235.14.92:8006/play/start_cinema
+#EXTINF:-1 ,Star Family
+http://77.235.14.92:8006/play/star_family
+#EXTINF:-1 ,TLC (rus)
+http://77.235.14.92:8006/play/tls_rus
+#EXTINF:-1 ,TV1000 ~
+http://77.235.14.92:8000/play/tv1000/index.m3u8
+#EXTINF:-1 ,TV1000 ~ Action
+http://77.235.14.92:8000/play/tv1000_action/index.m3u8
+#EXTINF:-1 ,TV5 Monde ~
+http://77.235.14.92:8000/play/tv5_monde/index.m3u8
+#EXTINF:-1 ,Tiji
+http://77.235.14.92:8000/play/tiji/index.m3u8
+#EXTINF:-1 ,Viasat history
+http://77.235.14.92:8000/play/viasat_history/index.m3u8
+#EXTINF:-1 ,Viasat sport
+http://77.235.14.92:8000/play/viasat_sport/index.m3u8
+#EXTINF:-1 ,Vostok TV ~
+http://77.235.14.92:8006/play/vostok_tv
+#EXTINF:-1 ,plan B
+http://77.235.14.92:8006/play/a00z
+#EXTINF:-1 ,Авто 24
+http://77.235.14.92:8006/play/avto24
+#EXTINF:-1 ,Авто+
+http://77.235.14.92:8000/play/auto_plus/index.m3u8
+#EXTINF:-1 ,Баластан
+http://77.235.14.92:8000/play/balastan/index.m3u8
+#EXTINF:-1 ,КТРК
+http://77.235.14.92:8000/play/ktrk/index.m3u8
+#EXTINF:-1 ,КТРК музыка
+http://77.235.14.92:8000/play/ktrk_muzika/index.m3u8
+#EXTINF:-1 ,Карусель
+http://77.235.14.92:8000/play/karusel/index.m3u8
+#EXTINF:-1 ,Киномикс
+http://77.235.14.92:8006/play/kinomix
+#EXTINF:-1 ,Киносвидание
+http://77.235.14.92:8006/play/kinosvidanie
+#EXTINF:-1 ,Киносемья
+http://77.235.14.92:8006/play/kinosemiya
+#EXTINF:-1 ,Киносерия
+http://77.235.14.92:8006/play/kinoseria
+#EXTINF:-1 ,Кинохит
+http://77.235.14.92:8000/play/kinohit/index.m3u8
+#EXTINF:-1 ,Конный мир
+http://77.235.14.92:8000/play/konnyi_mir/index.m3u8
+#EXTINF:-1 ,МАТЧ! Игра
+http://77.235.14.92:8006/play/igra_hd
+#EXTINF:-1,Маданият
+http://77.235.14.92:8000/play/madaniyat/index.m3u8
+#EXTINF:-1,Матч планета
+http://77.235.14.92:8000/play/match_planeta/index.m3u8
+#EXTINF:-1,Матч! Страна
+http://77.235.14.92:8006/play/nash_sport
+#EXTINF:-1,Мир 24
+http://77.235.14.92:8006/play/mir_24
+#EXTINF:-1,Моя планета
+http://77.235.14.92:8006/play/moya_planeta
+#EXTINF:-1,Мульт
+http://77.235.14.92:8000/play/mult/index.m3u8
+#EXTINF:-1,НТВ Кыргызстан ~
+http://77.235.14.92:8006/play/ntv_kg
+#EXTINF:-1,Настоящее страшное тв
+http://77.235.14.92:8006/play/nastoyashee_strashnoe_tv
+#EXTINF:-1,Охота и рыбалка
+http://77.235.14.92:8006/play/ohota_i_ribalka
+#EXTINF:-1,Ош ТВ
+http://77.235.14.92:8000/play/osh_tv/index.m3u8
+#EXTINF:-1,ТНВ
+http://77.235.14.92:8006/play/tnv
+#EXTINF:-1,ТНТ Кыргызстан
+http://77.235.14.92:8000/play/tnt_kg/index.m3u8
+#EXTINF:-1,Телекафе
+http://77.235.14.92:8000/play/telecafe/index.m3u8
+#EXTINF:-1,Узбекистан
+http://77.235.14.92:8000/play/uzbekistan/index.m3u8
+#EXTINF:-1,Уникум
+http://77.235.14.92:8000/play/detskiy/index.m3u8
+#EXTINF:-1,ЭЛТР
+http://77.235.14.92:8000/play/eltr/index.m3u8
+#EXTINF:-1,2.0
+http://77.235.14.92:8005/play/pyatnitsa_20/index.m3u8
+#EXTINF:-1,312
+http://77.235.14.92:8005/play/312_music/index.m3u8
+#EXTINF:-1,312 Кино
+http://77.235.14.92:8005/play/312_kino/index.m3u8
+#EXTINF:-1,312 Музыка
+http://77.235.14.92:8005/play/312_serial/index.m3u8
+#EXTINF:-1,5 Канал HD
+http://77.235.14.92:8005/play/5_kanal_hd/index.m3u8
+#EXTINF:-1,AquaTV
+http://77.235.14.92:8005/play/aguatv_hdmed/index.m3u8
+#EXTINF:-1,Bolajon (новый)
+http://77.235.14.92:8002/play/bolajon/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://77.235.14.92:8002/play/bollywood_hd/index.m3u8
+#EXTINF:-1,Bridge tv
+http://77.235.14.92:8002/play/bridge_tv/index.m3u8
+#EXTINF:-1,CCTV 10 ~
+http://77.235.14.92:8002/play/cctv_10/index.m3u8
+#EXTINF:-1,CCTV 13 ~
+http://77.235.14.92:8002/play/cctv_13/index.m3u8
+#EXTINF:-1,CCTV 15 ~
+http://77.235.14.92:8002/play/cctv_15/index.m3u8
+#EXTINF:-1,CCTV 2 ~
+http://77.235.14.92:8002/play/cctv_2/index.m3u8
+#EXTINF:-1,Cinemax
+http://77.235.14.92:8005/play/cinemax/index.m3u8
+#EXTINF:-1,ClassicaKino
+http://77.235.14.92:8005/play/classicakino_hdmed/index.m3u8
+#EXTINF:-1,DetskoeKino
+http://77.235.14.92:8005/play/detskoekino_hdmed/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://77.235.14.92:8002/play/discovery_channel/index.m3u8
+#EXTINF:-1,DjoyCock
+http://77.235.14.92:8005/play/djoy_cock_hdmed/index.m3u8
+#EXTINF:-1,Dorcel TV HD (Penthouse)
+http://77.235.14.92:8005/play/penthouse_hd_ilook/index.m3u8
+#EXTINF:-1,Dunyo Bo'ylab (uzb)
+http://77.235.14.92:8002/play/dunyo_boylab/index.m3u8
+#EXTINF:-1,E HD
+http://77.235.14.92:8005/play/e_tv/index.m3u8
+#EXTINF:-1,Fan HD
+http://77.235.14.92:8005/play/fan_hd/index.m3u8
+#EXTINF:-1,H2 HD (ararelos)
+http://77.235.14.92:8005/play/h2_ararelos/index.m3u8
+#EXTINF:-1,HDMEDIA
+http://77.235.14.92:8005/play/hdmedia_hdmed/index.m3u8
+#EXTINF:-1,HOME 4K (уфанет)
+http://77.235.14.92:8005/play/home_4k/index.m3u8
+#EXTINF:-1,History HD (ararelos)
+http://77.235.14.92:8005/play/history_ararelos/index.m3u8
+#EXTINF:-1,Hustler HD
+http://77.235.14.92:8005/play/hustler_hd_ilook/index.m3u8
+#EXTINF:-1,KBS world HD ~
+http://77.235.14.92:8002/play/kbs_world/index.m3u8
+#EXTINF:-1,KinoSezon
+http://77.235.14.92:8005/play/kinosezon_hdmed/index.m3u8
+#EXTINF:-1,Mahalla (uzb)
+http://77.235.14.92:8002/play/mahalla/index.m3u8
+#EXTINF:-1,Matras
+http://77.235.14.92:8005/play/matras/index.m3u8
+#EXTINF:-1,MultSezon
+http://77.235.14.92:8005/play/multsezon_hdmed/index.m3u8
+#EXTINF:-1,NEW TV
+http://77.235.14.92:8005/play/new_tv/index.m3u8
+#EXTINF:-1,NeizvestnayaPlaneta
+http://77.235.14.92:8005/play/neizvestnayaplaneta_hdmed/index.m3u8
+#EXTINF:-1,PerpetuumMobile
+http://77.235.14.92:8005/play/perpetuummobile_hdmed/index.m3u8
+#EXTINF:-1,Polet
+http://77.235.14.92:8005/play/polet_hdmed/index.m3u8
+#EXTINF:-1,Q-Sport ~
+http://77.235.14.92:8002/play/q_sport/index.m3u8
+#EXTINF:-1,RTV
+http://77.235.14.92:8002/play/rtv/index.m3u8
+#EXTINF:-1,Saudi-quran ~
+http://77.235.14.92:8002/play/saudi_quran/index.m3u8
+#EXTINF:-1,Saudi-sunnah ~
+http://77.235.14.92:8002/play/saudi_sunnah/index.m3u8
+#EXTINF:-1,Setanta Kyrgyzstan
+http://77.235.14.92:8002/play/setanta_kyrgyzstan/index.m3u8
+#EXTINF:-1,Setanta Sports 1 ~
+http://77.235.14.92:8002/play/setanta_sport1/index.m3u8
+#EXTINF:-1,TRT Turk ~
+http://77.235.14.92:8002/play/trt_turk/index.m3u8
+#EXTINF:-1,TRT avaz ~
+http://77.235.14.92:8002/play/trt_avaz/index.m3u8
+#EXTINF:-1,TRT cocuk ~
+http://77.235.14.92:8002/play/trt_cocuk/index.m3u8
+#EXTINF:-1,TRT haber ~
+http://77.235.14.92:8002/play/trt_haber/index.m3u8
+#EXTINF:-1,TRT muzik ~
+http://77.235.14.92:8002/play/trt_muzik/index.m3u8
+#EXTINF:-1,TRT1 Tur (Смарт) ~
+http://77.235.14.92:8002/play/trt1/index.m3u8
+#EXTINF:-1,TV1 Бишкек Шаары
+http://77.235.14.92:8005/play/tv1_bishkek_shaary/index.m3u8
+#EXTINF:-1,TV1.kg Cinemastan TV2.kg
+http://77.235.14.92:8005/play/TV1_kg/index.m3u8
+#EXTINF:-1,TV1.kg HD
+http://77.235.14.92:8005/play/TV1_kg_bishkek/index.m3u8
+#EXTINF:-1,TV100 (ararelos)
+http://77.235.14.92:8005/play/tv100_cineman/index.m3u8
+#EXTINF:-1,TV100 Action (ararelos)
+http://77.235.14.92:8005/play/tv100_action/index.m3u8
+#EXTINF:-1,TV100 RusKino (ararelos)
+http://77.235.14.92:8005/play/tv100_ruskino/index.m3u8
+#EXTINF:-1,TV100 TOP (ararelos)
+http://77.235.14.92:8005/play/tv100_top/index.m3u8
+#EXTINF:-1,TerraIncognita
+http://77.235.14.92:8005/play/terra_hdmed/index.m3u8
+#EXTINF:-1,Travel + Adventure HD
+http://77.235.14.92:8005/play/travel_adventure/index.m3u8
+#EXTINF:-1,Viasat explorer
+http://77.235.14.92:8002/play/viasat_explorer/index.m3u8
+#EXTINF:-1,Viasat nature
+http://77.235.14.92:8002/play/viasat_nature/index.m3u8
+#EXTINF:-1,XJTV 5 ~
+http://77.235.14.92:8002/play/xjtv_5/index.m3u8
+#EXTINF:-1,XJTV-9 ~
+http://77.235.14.92:8002/play/xjtv_9/index.m3u8
+#EXTINF:-1,iConcerts HD
+http://77.235.14.92:8002/play/iconcerts_hd/index.m3u8
+#EXTINF:-1,Блокбастер HD (ararelos)
+http://77.235.14.92:8005/play/priklucheniya_hd/index.m3u8
+#EXTINF:-1,Глазами туриста 4K (уфанет)
+http://77.235.14.92:8005/play/glazami_turista_4k/index.m3u8
+#EXTINF:-1,Душевное (ararelos)
+http://77.235.14.92:8005/play/nash_kinoroman_hd/index.m3u8
+#EXTINF:-1,ЖИВИ! (ilook)
+http://77.235.14.92:8005/play/jivi/index.m3u8
+#EXTINF:-1,Жаша!
+http://77.235.14.92:8005/play/NTS_sport_hd/index.m3u8
+#EXTINF:-1,Живи Активно HD (уфанет)
+http://77.235.14.92:8005/play/jivi_aktivno_hd/index.m3u8
+#EXTINF:-1,Илим Билим
+http://77.235.14.92:8002/play/ilim_bilim/index.m3u8
+#EXTINF:-1,КМуз
+http://77.235.14.92:8005/play/kmuz/index.m3u8
+#EXTINF:-1,Киноменю
+http://77.235.14.92:8005/play/kinomenu_hdmed/index.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://77.235.14.92:8002/play/Kinopremera_hd/index.m3u8
+#EXTINF:-1,Киноужас HD (ararelos)
+http://77.235.14.92:8005/play/kinoujas_hd/index.m3u8
+#EXTINF:-1,Комедийное HD (ararelos)
+http://77.235.14.92:8005/play/comediynoy_hd/index.m3u8
+#EXTINF:-1,Кыргыз тв спорт
+http://77.235.14.92:8005/play/kyrgyz_sport_tv/index.m3u8
+#EXTINF:-1,Любимый город HD
+http://77.235.14.92:8005/play/lubimiy_gorod_hd/index.m3u8
+#EXTINF:-1,Микс
+http://77.235.14.92:8005/play/mix/index.m3u8
+#EXTINF:-1,Моторспорт ТВ
+http://77.235.14.92:8005/play/motorsport_tv/index.m3u8
+#EXTINF:-1,НТВ Хит (новый)
+http://77.235.14.92:8002/play/ntv_hit_smart/index.m3u8
+#EXTINF:-1,НТС HD
+http://77.235.14.92:8005/play/NTS_hd/index.m3u8
+#EXTINF:-1,Наш кинопоказ HD (ilook)
+http://77.235.14.92:8005/play/nash_kinopokaz_hd/index.m3u8
+#EXTINF:-1,Наше Крутое HD (ararelos)
+http://77.235.14.92:8005/play/nashe_krutoe_hd/index.m3u8
+#EXTINF:-1,Остросюжетное Кино HD (ararelos)
+http://77.235.14.92:8005/play/ostosujetnoe_kino_hd/index.m3u8
+#EXTINF:-1,Первый Вегетарианский
+http://77.235.14.92:8005/play/pervyj_vegetarianskij/index.m3u8
+#EXTINF:-1,Премиальное HD (ararelos)
+http://77.235.14.92:8005/play/kino_premium_hd/index.m3u8
+#EXTINF:-1,Романтичное HD (ararelos)
+http://77.235.14.92:8005/play/romantichnoe_hd/index.m3u8
+#EXTINF:-1,Плейлист от Мav
+http://77.235.14.92:8005/play/semeyniy/index.m3u8
+#EXTINF:-1,Тумар ТВ
+http://77.235.14.92:8005/play/Tumar_TV/index.m3u8
+#EXTINF:-1,Хит HD (ararelos)
+http://77.235.14.92:8005/play/eureka_hd/index.m3u8
+#EXTINF:-1,Ынтымак
+http://77.235.14.92:8005/play/yntymak/index.m3u8
+#EXTINF:-1,Ювелирочка
+http://77.235.14.92:8005/play/joyeria/index.m3u8
+#EXTINF:-1 ,Русская ночь ~
+http://77.235.14.92:8006/play/Rusnight
